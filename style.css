@@ -1,0 +1,11 @@
+table, th, td{
+    border: 2px solid Green;
+    border-collapse: collapse;
+
+    /* COLOR */
+    background-color: lightblue;
+    
+    /* ALIGNMENT */
+    text-align: right;
+
+}
